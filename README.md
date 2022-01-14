@@ -9,6 +9,10 @@
 ### Certification
 - 💻 AWS Certified Cloud Practitioner - AWS ( 21.02.09 )
 
+### Research Experience
+- 📜 ICEIC Research Paper<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Efficient and Secure Genome Data Management Model using Blockchain and Partial Encryption](https://iceic.org/2022/download/ICEIC_2022_Program_Book.pdf) ( 21.11.25 )
+
 ### Awards and Honors
 - 🏆 DSC Korea Solution CHALLENGE HACKATHON - Top 1 [ Google DSC Korea ]
 - 🥈 DSC Solution CHALLENGE - Top 50 [ Google ]
