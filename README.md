@@ -37,9 +37,9 @@
 </div>
 
 <hr>
-<p >
+<p align='center' >
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=1810011">
-<img src="https://github-readme-stats.vercel.app/api?username=shpark0308&show_icons=true&bg_color=DEG,fc8464,875191&text_color=f2edeb&title_color=f2edeb&icon_color=f2edeb" style="width=50px;">
+<img src="https://github-readme-stats.vercel.app/api?username=shpark0308&show_icons=true&bg_color=DEG,fc8464,875191&text_color=f2edeb&title_color=f2edeb&icon_color=f2edeb" style="width=40px;">
   
 
 </p>
