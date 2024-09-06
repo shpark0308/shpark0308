@@ -25,9 +25,6 @@
 - 🏆 DSC Korea Solution CHALLENGE HACKATHON - Top 1 [ Google DSC Korea ]
 - 🥈 DSC Solution CHALLENGE - Top 50 [ Google ]
 
-### Links
-- 🙍‍♀️ Linked-In [https://www.linkedin.com/shinHyeong](https://www.linkedin.com/in/%EC%8B%A0%ED%98%95-%EB%B0%95-833ab729a/)
-
 <br/>
 
 ## ⌨ Skills
