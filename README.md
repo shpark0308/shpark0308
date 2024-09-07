@@ -2,7 +2,7 @@
 
 ### Introduce
 - 💼 SK Planet, 소프트웨어 개발자 ( 2022.07 ~ 현재 )
-- 💻 동국대학교 WISE 캠퍼스 데이터 분석 랩실, AI 전문가 겸임 ( 2022.03 ~ 2022.11, 2023.05 ~ 2024.02 )
+- 💻 동국대학교 WISE 캠퍼스 데이터 분석 랩실, AI 전문가 겸임 ( 2022.06 ~ 2022.11, 2023.05 ~ 2024.02 )
 - 💾 [Computer Security Laboratory](http://whistle.sookmyung.ac.kr/), undergraduate researcher internship ( 2021.07 ~ 2022.06 )
 - 📠 Goqba Technology, AI researcher internship ( 2021.03 ~ 2022.06 )
 
