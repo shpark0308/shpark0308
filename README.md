@@ -1,4 +1,4 @@
-> # ShinHyeong Park&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshpark0308&count_bg=%233DA4C8&title_bg=%23616668&icon=&icon_color=%23E7E7E7&title=Visited&edge_flat=false)
+> # ShinHyeong Park&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Introduce
 - 💼 SK Planet, 소프트웨어 개발자 ( 2022.07 ~ 현재 )
@@ -7,7 +7,8 @@
 - 📠 Goqba Technology, AI researcher internship ( 2021.03 ~ 2022.06 )
 
 ### Education
-- 🎓 Sookmyung Woman's University, Software major ( 2018.02 ~ 2022.08 )
+- 🎓 BS, Sookmyung Woman's University, Software major ( 2018.02 ~ 2022.08 )
+- 🎓 MS, Korea University, SW AI Convergence ( 2025.03 ~ 2027.08 )
 
 ### Research Experience
 - ◼ AAAI 2023<br/>
